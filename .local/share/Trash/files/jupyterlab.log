@@ -1,0 +1,20 @@
+nohup: ignoring input
+[I 2023-10-25 04:22:37.992 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[W 2023-10-25 04:22:37.997 ServerApp] ServerApp.password config is deprecated in 2.0. Use PasswordIdentityProvider.hashed_password.
+[I 2023-10-25 04:22:37.997 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-10-25 04:22:38.001 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-10-25 04:22:38.190 ServerApp] notebook_shim | extension was successfully linked.
+[W 2023-10-25 04:22:38.374 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2023-10-25 04:22:38.374 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2023-10-25 04:22:38.375 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2023-10-25 04:22:38.376 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.10/site-packages/jupyterlab
+[I 2023-10-25 04:22:38.376 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 2023-10-25 04:22:38.378 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-10-25 04:22:38.382 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-10-25 04:22:38.383 ServerApp] Serving notebooks from local directory: /root
+[I 2023-10-25 04:22:38.383 ServerApp] Jupyter Server 2.1.0 is running at:
+[I 2023-10-25 04:22:38.383 ServerApp] http://localhost:8888/lab
+[I 2023-10-25 04:22:38.383 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2023-10-25 04:22:38.383 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-10-25 04:28:26.165 ServerApp] received signal 15, stopping
+[I 2023-10-25 04:28:26.165 ServerApp] Shutting down 4 extensions

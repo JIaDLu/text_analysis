@@ -1,0 +1,37 @@
+2023-10-25 10:37:48.918 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-10-25 10:37:48.918 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-10-25 10:37:48.918 [info] Experiment 'pythonSurveyNotification' is active
+2023-10-25 10:37:48.918 [info] Experiment 'pythonTestAdaptercf' is active
+2023-10-25 10:37:48.919 [info] Test server listening.
+2023-10-25 10:37:48.931 [info] Python interpreter path: /usr/bin/python3
+2023-10-25 10:37:48.958 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-25 10:37:49.072 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:37:49.612 [info] > conda info --json
+2023-10-25 10:37:49.626 [info] Found: /usr/bin/python3 --> /usr/bin/python3.6
+2023-10-25 10:37:49.627 [info] Found: /usr/bin/python3.6 --> /usr/bin/python3.6
+2023-10-25 10:37:49.631 [info] Found: /opt/conda/bin/python --> /opt/conda/bin/python3.10
+2023-10-25 10:37:49.631 [info] Found: /opt/conda/bin/python3 --> /opt/conda/bin/python3.10
+2023-10-25 10:37:49.631 [info] Found: /opt/conda/bin/python3.1 --> /opt/conda/bin/python3.10
+2023-10-25 10:37:49.631 [info] Found: /opt/conda/bin/python3.10 --> /opt/conda/bin/python3.10
+2023-10-25 10:37:49.866 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:37:49.866 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:37:49.866 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:37:49.866 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:37:49.866 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:37:49.866 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:37:49.866 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:37:49.866 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:37:49.866 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-25 10:37:49.866 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-25 10:37:49.866 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-25 10:37:49.867 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-25 10:37:49.968 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2023-10-25 10:37:49.968 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:37:49.968 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:37:50.242 [info] > /opt/conda/bin/python -I ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-25 10:37:50.561 [info] Starting Pylance language server.
+2023-10-25 10:41:48.747 [info] > conda run -n base --no-capture-output python ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/printEnvVariables.py
+2023-10-25 10:41:48.748 [info] shell: bash
+2023-10-25 10:41:48.851 [info] > conda run -n base --no-capture-output python ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/printEnvVariables.py
+2023-10-25 10:41:48.851 [info] shell: bash
+2023-10-25 10:44:26.876 [info] Discover tests for workspace name: text_analysis - uri: /root/text_analysis

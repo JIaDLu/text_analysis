@@ -1,0 +1,32 @@
+Visual Studio Code (1.83.1, ssh-remote, desktop)
+Jupyter Extension Version: 2023.9.1102792234.
+Python Extension Version: 2023.18.0.
+Platform: linux (x64).
+Workspace folder ~/text_analysis, Home = /root
+10:59:56.588 [info] User belongs to experiment group 'NewJupyterSession'
+10:59:56.905 [info] Start refreshing Kernel Picker (1698231596905)
+10:59:56.913 [info] Using Pylance
+10:59:58.326 [warn] Failed to get activated env vars for /usr/bin/python3 in 706ms
+10:59:58.345 [info] Process Execution: /usr/bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+10:59:58.376 [info] Process Execution: /usr/bin/python3 -m pip list
+10:59:58.411 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+10:59:58.652 [info] End refreshing Kernel Picker (1698231596905)
+10:59:59.453 [warn] No interpreter for Pylance for Notebook URI "~/text_analysis/code/snownlp.ipynb"
+11:00:21.760 [info] Start refreshing Kernel Picker (1698231621760)
+11:00:21.912 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0d4d1e4263499bec80672ea0156c357c1ee493ec2b1c70f0acce89fc37c4a6abe./opt/conda/python./opt/conda/python.-m#ipykernel_launcher  (Python Path: /opt/conda/bin/python, Conda, base, 3.10.8) for '~/text_analysis/code/snownlp.ipynb' (disableUI=true)
+11:00:22.884 [info] End refreshing Kernel Picker (1698231621760)
+11:00:23.471 [info] Process Execution: /opt/conda/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+11:00:23.482 [info] Process Execution: /opt/conda/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"aa9e3a5d-764c-4a76-8d69-093d65e9afc0" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-8514mHMXLZYERf2F.json
+    > cwd: ~/text_analysis/code
+11:00:23.546 [info] Process Execution: /opt/conda/bin/python -m pip list
+11:00:23.636 [info] ipykernel version & path 6.20.2, /opt/conda/lib/python3.10/site-packages/ipykernel/__init__.py for /opt/conda/bin/python
+11:00:24.026 [warn] StdErr from Kernel Process /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2544: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+11:00:24.026 [warn] StdErr from Kernel Process /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2495: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'aa9e3a5d-764c-4a76-8d69-093d65e9afc0' instead of 'b"aa9e3a5d-764c-4a76-8d69-093d65e9afc0"'.
+  warn(
+11:00:24.217 [info] Process Execution: /opt/conda/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/pythonFiles/printJupyterDataDir.py
+11:09:34.555 [info] Disposing HostJupyterExecution
+11:09:34.555 [info] Shutting down notebooks for e5627d95-19b0-41f0-be26-e5dc4c134eda
+11:09:34.556 [info] Dispose Kernel '~/text_analysis/code/snownlp.ipynb' associated with '~/text_analysis/code/snownlp.ipynb'
+11:09:34.557 [info] Dispose Kernel process 8726.
+11:09:34.569 [info] Disposing HostJupyterExecution

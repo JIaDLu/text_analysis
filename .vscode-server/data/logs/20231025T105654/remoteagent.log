@@ -1,0 +1,25 @@
+2023-10-25 10:56:54.558 [info] 
+
+
+
+
+2023-10-25 10:56:54.575 [info] Extension host agent started.
+2023-10-25 10:56:54.693 [info] [127.0.0.1][069461c4][ManagementConnection] New connection established.
+2023-10-25 10:56:54.790 [info] [127.0.0.1][96cc5860][ExtensionHostConnection] New connection established.
+2023-10-25 10:56:54.915 [info] [127.0.0.1][96cc5860][ExtensionHostConnection] <8401> Launched Extension Host Process.
+2023-10-25 10:59:53.037 [info] [127.0.0.1][069461c4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-25 10:59:53.057 [info] [127.0.0.1][96cc5860][ExtensionHostConnection] <8401> Extension Host Process exited with code: 0, signal: null.
+2023-10-25 10:59:53.057 [info] Cancelling previous shutdown timeout
+2023-10-25 10:59:53.057 [info] Last EH closed, waiting before shutting down
+2023-10-25 10:59:54.285 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-10-25 10:59:54.286 [info] Cancelling previous shutdown timeout
+2023-10-25 10:59:54.438 [info] [127.0.0.1][7e9dfd83][ManagementConnection] New connection established.
+2023-10-25 10:59:54.559 [info] [127.0.0.1][75f16020][ExtensionHostConnection] New connection established.
+2023-10-25 10:59:54.576 [info] [127.0.0.1][75f16020][ExtensionHostConnection] <8514> Launched Extension Host Process.
+2023-10-25 11:00:24.102 [info] [127.0.0.1][75f16020][ExtensionHostConnection] <8514> Starting WebSocket: RAW/api/kernels/a012ad58-d7ec-4579-9e06-1ae67a89b747
+
+2023-10-25 11:04:54.286 [info] New EH opened, aborting shutdown
+2023-10-25 11:09:34.531 [info] [127.0.0.1][7e9dfd83][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-25 11:09:34.604 [info] [127.0.0.1][75f16020][ExtensionHostConnection] <8514> Extension Host Process exited with code: 0, signal: null.
+2023-10-25 11:09:34.604 [info] Last EH closed, waiting before shutting down
+2023-10-25 11:14:34.605 [info] Last EH closed, shutting down

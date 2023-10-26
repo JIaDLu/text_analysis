@@ -1,0 +1,23 @@
+2023-10-25 09:35:03.435 [info] Log level: Info
+2023-10-25 09:35:03.435 [info] Validating found git in: "git"
+2023-10-25 09:35:03.435 [info] Using git "2.17.1" from "git"
+2023-10-25 09:35:03.435 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-25 09:35:03.435 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-10-25 09:35:03.435 [info] Open repository: /root/github/SnowNLP_Movie
+2023-10-25 09:35:03.435 [info] > git config --get commit.template [5ms]
+2023-10-25 09:35:03.435 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-25 09:35:03.435 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-10-25 09:35:03.435 [info] > git rev-parse --show-toplevel [7ms]
+2023-10-25 09:35:03.438 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-25 09:35:03.444 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-25 09:35:03.805 [info] > git status -z -uall [376ms]
+2023-10-25 09:35:03.822 [info] > git config --get commit.template [5ms]
+2023-10-25 09:35:03.823 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-25 09:35:03.951 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-25 09:35:04.220 [info] > git status -z -uall [393ms]
+2023-10-25 09:35:05.640 [info] > git show --textconv :test.py [6ms]
+2023-10-25 09:35:05.641 [info] > git ls-files --stage -- /root/github/SnowNLP_Movie/test.py [2ms]
+2023-10-25 09:35:05.647 [info] > git cat-file -s 82cbbf87985402e2b27559df8f68aa16249b3b30 [1ms]
+2023-10-25 09:35:09.044 [info] > git show --textconv :train.py [5ms]
+2023-10-25 09:35:09.045 [info] > git ls-files --stage -- /root/github/SnowNLP_Movie/train.py [2ms]
+2023-10-25 09:35:09.050 [info] > git cat-file -s cbe34af6e3602ecd50d89f16ba83c6a4203a14d9 [1ms]

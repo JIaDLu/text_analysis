@@ -1,0 +1,31 @@
+2023-10-25 10:59:57.612 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-10-25 10:59:57.612 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-10-25 10:59:57.612 [info] Experiment 'pythonSurveyNotification' is active
+2023-10-25 10:59:57.612 [info] Experiment 'pythonTestAdaptercf' is active
+2023-10-25 10:59:57.613 [info] Test server listening.
+2023-10-25 10:59:57.622 [info] Python interpreter path: /usr/bin/python3
+2023-10-25 10:59:57.726 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:59:58.235 [info] > conda info --json
+2023-10-25 10:59:58.242 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:59:58.242 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:59:58.242 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:59:58.242 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:59:58.242 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:59:58.242 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:59:58.242 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-25 10:59:58.242 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-25 10:59:58.242 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-25 10:59:58.242 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-25 10:59:59.443 [info] Starting Pylance language server.
+2023-10-25 11:00:21.749 [info] Found: /usr/bin/python3 --> /usr/bin/python3.6
+2023-10-25 11:00:21.751 [info] Found: /usr/bin/python3.6 --> /usr/bin/python3.6
+2023-10-25 11:00:21.779 [info] > /opt/conda/bin/python -I ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-25 11:00:21.794 [info] Found: /opt/conda/bin/python --> /opt/conda/bin/python3.10
+2023-10-25 11:00:21.795 [info] Found: /opt/conda/bin/python3 --> /opt/conda/bin/python3.10
+2023-10-25 11:00:21.795 [info] Found: /opt/conda/bin/python3.1 --> /opt/conda/bin/python3.10
+2023-10-25 11:00:21.795 [info] Found: /opt/conda/bin/python3.10 --> /opt/conda/bin/python3.10
+2023-10-25 11:00:21.816 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-25 11:00:21.911 [info] > conda run -n base --no-capture-output python ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/printEnvVariables.py
+2023-10-25 11:00:21.911 [info] shell: bash
+2023-10-25 11:00:21.939 [info] > conda run -n base --no-capture-output python ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/printEnvVariables.py
+2023-10-25 11:00:21.939 [info] shell: bash

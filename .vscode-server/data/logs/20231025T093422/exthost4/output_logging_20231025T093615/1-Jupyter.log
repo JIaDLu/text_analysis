@@ -1,0 +1,271 @@
+Visual Studio Code (1.83.1, ssh-remote, desktop)
+Jupyter Extension Version: 2023.9.1102792234.
+Python Extension not installed.
+Platform: linux (x64).
+Workspace folder ~/text_analysis, Home = /root
+10:09:31.720 [info] User belongs to experiment group 'NewJupyterSession'
+10:09:32.104 [info] Start refreshing Kernel Picker (1698228572103)
+10:09:32.120 [info] Not using Pylance
+10:09:32.178 [info] End refreshing Kernel Picker (1698228572103)
+10:34:04.340 [error] Failed to parse URI  [TypeError: Invalid URL
+	at new NodeError (node:internal/errors:399:5)
+	at URL.onParseError (node:internal/url:566:9)
+	at new URL (node:internal/url:646:5)
+	at HE (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:576433)
+	at VE.parseUserUriAndGetValidationError (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:573869)
+	at s.value (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:573632)
+	at c.z (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at u._fireDidAccept (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:128:114713)
+	at c.$onDidAccept (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:128:112942)
+	at i.S (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10827)
+	at i.Q (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10593)
+	at i.M (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:9683)
+	at i.L (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:8762)
+	at s.value (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:7565)
+	at c.z (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.fire (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at s.value (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:7902)
+	at c.z (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.fire (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:151:19153)] {
+  input: '',
+  code: 'ERR_INVALID_URL'
+}
+10:37:03.780 [info] Not using Pylance
+10:37:48.693 [info] End refreshing Kernel Picker (1698228572103)
+10:37:49.587 [warn] Failed to get activated env vars for /usr/bin/python3 in 660ms
+10:37:49.597 [info] Process Execution: /usr/bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+10:37:49.620 [info] Process Execution: /usr/bin/python3 -m pip list
+10:37:49.651 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+10:37:50.053 [info] End refreshing Kernel Picker (1698228572103)
+10:37:51.286 [info] End refreshing Kernel Picker (1698228572103)
+10:41:48.821 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0d4d1e4263499bec80672ea0156c357c1ee493ec2b1c70f0acce89fc37c4a6abe./opt/conda/python./opt/conda/python.-m#ipykernel_launcher  (Python Path: /opt/conda/bin/python, Conda, base, 3.10.8) for '~/text_analysis/code/snownlp.ipynb' (disableUI=true)
+10:41:49.854 [info] Registering dummy command feature
+10:41:50.241 [info] Process Execution: /opt/conda/bin/python -m pip list
+10:41:50.353 [info] Process Execution: /opt/conda/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+10:41:50.360 [info] Process Execution: /opt/conda/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"d8ebcf33-e4bb-486f-b4ca-f59793243ddd" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-6836vCpcTyTLINBm.json
+    > cwd: ~/text_analysis/code
+10:41:50.517 [info] ipykernel version & path 6.20.2, /opt/conda/lib/python3.10/site-packages/ipykernel/__init__.py for /opt/conda/bin/python
+10:41:50.910 [warn] StdErr from Kernel Process /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2544: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+10:41:50.910 [warn] StdErr from Kernel Process /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2495: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'd8ebcf33-e4bb-486f-b4ca-f59793243ddd' instead of 'b"d8ebcf33-e4bb-486f-b4ca-f59793243ddd"'.
+  warn(
+10:41:51.083 [info] Process Execution: /opt/conda/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/pythonFiles/printJupyterDataDir.py
+10:41:51.563 [info] Handle Execution of Cells 0 for ~/text_analysis/code/snownlp.ipynb
+10:41:51.573 [info] Kernel acknowledged execution of cell 0 @ 1698230511572
+10:41:52.507 [info] End cell 0 execution @ 1698230512507, started @ 1698230511572, elapsed time = 0.935s
+10:41:52.657 [error] Widget Error: Failed to access CDN https://unpkg.com/ after 0 attempt(s), AbortError: The user aborted a request.
+10:41:52.658 [error] Widget Error: Failed to access CDN https://cdn.jsdelivr.net/npm/requirejs@2.3.6/bin/r.min.js after 0 attempt(s), AbortError: The user aborted a request.
+10:41:53.921 [info] Handle Execution of Cells 1 for ~/text_analysis/code/snownlp.ipynb
+10:41:53.934 [info] Kernel acknowledged execution of cell 1 @ 1698230513934
+10:41:53.937 [info] End cell 1 execution @ 1698230513937, started @ 1698230513934, elapsed time = 0.003s
+10:44:26.974 [warn] Failed to get activated env vars for /usr/bin/python3 in 96ms
+10:44:26.984 [info] Process Execution: /usr/bin/python3 -m pip list
+10:44:27.027 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+10:44:28.629 [info] Handle Execution of Cells 0 for ~/text_analysis/code/snownlp.ipynb
+10:44:28.637 [info] Kernel acknowledged execution of cell 0 @ 1698230668636
+10:44:28.638 [info] End cell 0 execution @ 1698230668638, started @ 1698230668636, elapsed time = 0.002s
+10:44:29.981 [info] Handle Execution of Cells 1 for ~/text_analysis/code/snownlp.ipynb
+10:44:29.988 [info] Kernel acknowledged execution of cell 1 @ 1698230669987
+10:44:29.991 [info] End cell 1 execution @ 1698230669991, started @ 1698230669987, elapsed time = 0.004s
+10:44:41.510 [info] Disposing kernel .jvsc74a57bd0d4d1e4263499bec80672ea0156c357c1ee493ec2b1c70f0acce89fc37c4a6abe./opt/conda/python./opt/conda/python.-m#ipykernel_launcher for notebook ~/text_analysis/code/snownlp.ipynb due to selection of another kernel or closing of the notebook
+10:44:41.511 [info] Dispose Kernel '~/text_analysis/code/snownlp.ipynb' associated with '~/text_analysis/code/snownlp.ipynb'
+10:44:41.511 [info] Dispose Kernel process 7572.
+10:44:41.572 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher  (Python Path: /usr/bin/python3, Unknown, 3.6.9) for '~/text_analysis/code/snownlp.ipynb' (disableUI=true)
+10:44:41.671 [warn] Failed to get activated env vars for /usr/bin/python3 in 94ms
+10:44:41.680 [info] Process Execution: /usr/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+10:44:41.687 [info] Process Execution: /usr/bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"d509857a-f1c9-4d2c-bc9f-5125f5d6fe88" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-6836T2pR6SmsSigj.json
+    > cwd: ~/text_analysis/code
+10:44:41.694 [warn] Stderr output when getting ipykernel version & path Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    ModuleNotFoundError: No module named 'ipykernel' for /usr/bin/python3
+10:44:41.706 [warn] StdErr from Kernel Process /usr/bin/python3: No module named ipykernel_launcher
+10:44:41.710 [error] Disposing kernel process due to an error Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+10:44:41.710 [info] Dispose Kernel process 7951.
+10:44:41.714 [error] Kernel Launcher. launch, Class name = ty, completed in 140ms, has a falsy return value, Arg 1: ".jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher", Arg 2: 60000, Arg 3: "~/text_analysis/code/snownlp.ipynb", Arg 4: "~/text_analysis/code", Arg 5: "" Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+10:44:41.714 [error] Failed to connect raw kernel session: Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+10:44:41.714 [error] Failed to connect raw kernel session: Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+10:44:41.715 [warn] Error occurred while trying to start the kernel, options.disableUI=true Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+10:44:44.510 [info] Handle Execution of Cells 0 for ~/text_analysis/code/snownlp.ipynb
+10:44:44.511 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher  (Python Path: /usr/bin/python3, Unknown, 3.6.9) for '~/text_analysis/code/snownlp.ipynb' (disableUI=false)
+10:44:44.522 [info] Process Execution: /usr/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+10:44:44.535 [info] Process Execution: /usr/bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9011 --control=9009 --hb=9008 --Session.signature_scheme="hmac-sha256" --Session.key=b"41ee126a-89f1-4101-ab54-dc47ae765f0d" --shell=9010 --transport="tcp" --iopub=9012 --f=~/.local/share/jupyter/runtime/kernel-v2-6836jJDVYHdzX60y.json
+    > cwd: ~/text_analysis/code
+10:44:44.537 [warn] Stderr output when getting ipykernel version & path Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    ModuleNotFoundError: No module named 'ipykernel' for /usr/bin/python3
+10:44:44.554 [warn] StdErr from Kernel Process /usr/bin/python3: No module named ipykernel_launcher
+10:44:44.558 [error] Disposing kernel process due to an error Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+10:44:44.558 [info] Dispose Kernel process 7953.
+10:44:44.559 [error] Kernel Launcher. launch, Class name = ty, completed in 47ms, has a falsy return value, Arg 1: ".jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher", Arg 2: 60000, Arg 3: "~/text_analysis/code/snownlp.ipynb", Arg 4: "~/text_analysis/code", Arg 5: "" Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+10:44:44.559 [error] Failed to connect raw kernel session: Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+10:44:44.559 [error] Failed to connect raw kernel session: Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+10:44:44.559 [warn] Error occurred while trying to start the kernel, options.disableUI=false Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+10:44:44.560 [warn] Kernel Error, context = start Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+10:44:44.571 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+10:44:44.586 [info] Check & install missing Kernel dependencies for /usr/bin/python3, ui.disabled=false for resource '~/text_analysis/code/snownlp.ipynb'
+10:44:44.595 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+10:44:44.617 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+10:44:59.924 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+10:45:07.206 [info] Dispose Kernel '~/text_analysis/code/snownlp.ipynb' associated with '~/text_analysis/code/snownlp.ipynb'
+10:45:07.206 [error] Error in execution Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+10:45:07.207 [error] Error in execution (get message for cell) Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+10:45:07.216 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+10:45:07.282 [info] End cell 0 execution @ undefined, started @ undefined, elapsed time = 0s
+10:45:08.846 [info] Handle Execution of Cells 0 for ~/text_analysis/code/snownlp.ipynb
+10:45:08.847 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher  (Python Path: /usr/bin/python3, Unknown, 3.6.9) for '~/text_analysis/code/snownlp.ipynb' (disableUI=false)
+10:45:08.858 [info] Process Execution: /usr/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+10:45:08.873 [info] Process Execution: /usr/bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9019 --control=9017 --hb=9016 --Session.signature_scheme="hmac-sha256" --Session.key=b"fce562cf-405d-4414-a860-01a22705e435" --shell=9018 --transport="tcp" --iopub=9020 --f=~/.local/share/jupyter/runtime/kernel-v2-68361q5igxhhvKeF.json
+    > cwd: ~/text_analysis/code
+10:45:08.875 [warn] Stderr output when getting ipykernel version & path Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    ModuleNotFoundError: No module named 'ipykernel' for /usr/bin/python3
+10:45:08.897 [warn] StdErr from Kernel Process /usr/bin/python3: No module named ipykernel_launcher
+10:45:08.901 [error] Disposing kernel process due to an error Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+10:45:08.901 [info] Dispose Kernel process 7963.
+10:45:08.902 [error] Kernel Launcher. launch, Class name = ty, completed in 54ms, has a falsy return value, Arg 1: ".jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher", Arg 2: 60000, Arg 3: "~/text_analysis/code/snownlp.ipynb", Arg 4: "~/text_analysis/code", Arg 5: "" Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+10:45:08.902 [error] Failed to connect raw kernel session: Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+10:45:08.902 [error] Failed to connect raw kernel session: Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+10:45:08.903 [warn] Error occurred while trying to start the kernel, options.disableUI=false Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+10:45:08.903 [warn] Kernel Error, context = start Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+10:45:08.914 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+10:45:08.934 [info] Check & install missing Kernel dependencies for /usr/bin/python3, ui.disabled=false for resource '~/text_analysis/code/snownlp.ipynb'
+10:45:08.948 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+10:45:08.979 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+10:45:12.578 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+10:45:25.619 [info] Dispose Kernel '~/text_analysis/code/snownlp.ipynb' associated with '~/text_analysis/code/snownlp.ipynb'
+10:45:25.619 [error] Error in execution Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+10:45:25.620 [error] Error in execution (get message for cell) Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+10:45:25.630 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+10:45:25.696 [info] End cell 0 execution @ undefined, started @ undefined, elapsed time = 0s
+10:46:56.430 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0d4d1e4263499bec80672ea0156c357c1ee493ec2b1c70f0acce89fc37c4a6abe./opt/conda/python./opt/conda/python.-m#ipykernel_launcher  (Python Path: /opt/conda/bin/python, Conda, base, 3.10.8) for '~/text_analysis/code/snownlp.ipynb' (disableUI=true)
+10:46:56.443 [info] Process Execution: /opt/conda/bin/python -m pip list
+10:46:56.458 [info] Process Execution: /opt/conda/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+10:46:56.480 [info] Process Execution: /opt/conda/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9027 --control=9025 --hb=9024 --Session.signature_scheme="hmac-sha256" --Session.key=b"156e0c1b-a033-46c3-bf02-5523ef83412d" --shell=9026 --transport="tcp" --iopub=9028 --f=~/.local/share/jupyter/runtime/kernel-v2-6836h8IysbU17uyP.json
+    > cwd: ~/text_analysis/code
+10:46:56.650 [info] ipykernel version & path 6.20.2, /opt/conda/lib/python3.10/site-packages/ipykernel/__init__.py for /opt/conda/bin/python
+10:46:56.996 [warn] StdErr from Kernel Process /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2544: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+10:46:56.996 [warn] StdErr from Kernel Process /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2495: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '156e0c1b-a033-46c3-bf02-5523ef83412d' instead of 'b"156e0c1b-a033-46c3-bf02-5523ef83412d"'.
+  warn(
+10:46:58.765 [info] Handle Execution of Cells 0 for ~/text_analysis/code/snownlp.ipynb
+10:46:58.771 [info] Kernel acknowledged execution of cell 0 @ 1698230818771
+10:46:59.724 [info] End cell 0 execution @ 1698230819724, started @ 1698230818771, elapsed time = 0.953s
+10:47:01.718 [info] Handle Execution of Cells 1 for ~/text_analysis/code/snownlp.ipynb
+10:47:01.722 [info] Kernel acknowledged execution of cell 1 @ 1698230821722
+10:47:01.734 [info] End cell 1 execution @ 1698230821734, started @ 1698230821722, elapsed time = 0.012s
+10:47:05.399 [info] Handle Execution of Cells 2 for ~/text_analysis/code/snownlp.ipynb
+10:47:05.405 [info] Kernel acknowledged execution of cell 2 @ 1698230825405
+10:47:07.761 [info] End cell 2 execution @ 1698230827761, started @ 1698230825405, elapsed time = 2.356s
+10:47:10.169 [info] Handle Execution of Cells 3 for ~/text_analysis/code/snownlp.ipynb
+10:47:10.173 [info] Kernel acknowledged execution of cell 3 @ 1698230830173
+10:47:10.177 [info] End cell 3 execution @ 1698230830177, started @ 1698230830173, elapsed time = 0.004s
+10:47:10.670 [info] Handle Execution of Cells 4 for ~/text_analysis/code/snownlp.ipynb
+10:47:10.682 [info] Kernel acknowledged execution of cell 4 @ 1698230830682
+10:47:10.686 [info] End cell 4 execution @ 1698230830685, started @ 1698230830682, elapsed time = 0.003s
+10:47:30.298 [info] Handle Execution of Cells 3 for ~/text_analysis/code/snownlp.ipynb
+10:47:30.304 [info] Kernel acknowledged execution of cell 3 @ 1698230850304
+10:47:30.306 [info] End cell 3 execution @ 1698230850306, started @ 1698230850304, elapsed time = 0.002s
+10:47:31.639 [info] Handle Execution of Cells 4 for ~/text_analysis/code/snownlp.ipynb
+10:47:31.648 [info] Kernel acknowledged execution of cell 4 @ 1698230851648
+10:47:31.651 [info] End cell 4 execution @ 1698230851651, started @ 1698230851648, elapsed time = 0.003s
+10:48:47.359 [info] Disposing HostJupyterExecution
+10:48:47.359 [info] Shutting down notebooks for 2406e53a-ae31-4203-8615-410cea744fb7
+10:48:47.359 [info] Dispose Kernel '~/text_analysis/code/snownlp.ipynb' associated with '~/text_analysis/code/snownlp.ipynb'
+10:48:47.359 [info] Dispose Kernel '~/text_analysis/code/snownlp.ipynb' associated with '~/text_analysis/code/snownlp.ipynb'
+10:48:47.360 [info] Dispose Kernel '~/text_analysis/code/snownlp.ipynb' associated with '~/text_analysis/code/snownlp.ipynb'
+10:48:47.360 [info] Dispose Kernel '~/text_analysis/code/snownlp.ipynb' associated with '~/text_analysis/code/snownlp.ipynb'
+10:48:47.360 [info] Dispose Kernel process 8202.
+10:48:47.370 [info] Disposing HostJupyterExecution
+10:48:47.379 [error] Failed to install the Python extension [Canceled: Canceled
+	at Object.I [as $4] (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at ~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:7611)
+	at s.terminate (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8031)
+	at o.terminate (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at s.value (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:7848)
+	at c.z (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.fire (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (~/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:151:19153)]

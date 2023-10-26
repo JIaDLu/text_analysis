@@ -1,0 +1,10 @@
+2023-10-25 10:59:59.422 [info] [Info  - 10:59:59 AM] (8624) Pylance language server 2023.10.40 (pyright 088ebaa5) starting
+2023-10-25 10:59:59.422 [info] [Info  - 10:59:59 AM] (8624) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40/dist
+2023-10-25 10:59:59.423 [info] [Info  - 10:59:59 AM] (8624) Starting service instance "text_analysis"
+2023-10-25 10:59:59.469 [info] [Info  - 10:59:59 AM] (8624) Setting pythonPath for service "text_analysis": "/usr/bin/python3"
+2023-10-25 10:59:59.469 [info] [Info  - 10:59:59 AM] (8624) Setting environmentName for service "text_analysis": "3.6.9 (global)"
+2023-10-25 10:59:59.516 [info] [Info  - 10:59:59 AM] (8624) Assuming Python version 3.6
+2023-10-25 10:59:59.558 [info] [Info  - 10:59:59 AM] (8624) No source files found.
+2023-10-25 10:59:59.582 [info] [Info  - 10:59:59 AM] (8624) Starting service instance "text_analysis"
+2023-10-25 10:59:59.606 [info] [Info  - 10:59:59 AM] (8624) Setting environmentName for service "text_analysis": "3.6.9 (global)"
+2023-10-25 10:59:59.651 [info] [Info  - 10:59:59 AM] (8624) No source files found.

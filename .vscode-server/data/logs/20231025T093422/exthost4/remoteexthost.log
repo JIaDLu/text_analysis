@@ -1,0 +1,289 @@
+2023-10-25 09:36:15.068 [info] Extension host with pid 6836 started
+2023-10-25 09:36:15.078 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/db57e982ac2e2f2f0b80f6ad4da4e8cf/vscode.lock': Lock acquired.
+2023-10-25 09:36:15.206 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-10-25 09:36:15.273 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-25 09:36:15.378 [info] Eager extensions activated
+2023-10-25 09:36:15.379 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-25 09:36:15.379 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-25 09:36:15.539 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-10-25 09:36:16.994 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2023-10-25 09:36:18.320 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-25 10:08:31.671 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-10-25 10:08:31.672 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-10-25 10:08:31.672 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+2023-10-25 10:08:31.674 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2023-10-25 10:11:11.549 [error] Canceled: Canceled
+	at Lw.selectLocalKernel (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:276265)
+	at async Sw.onSelectLocalKernel (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:251539)
+	at async n.h (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84275) jupyter.kernel.selectLocalPythonEnvironment {"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"}
+2023-10-25 10:34:11.776 [error] Canceled: Canceled
+	at Object.execute (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:272789)
+	at Hp.selectItem (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:17:39794)
+	at async Nw.selectKernel (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:273935)
+	at async Lw.selectLocalKernel (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:276174)
+	at async Sw.onSelectLocalKernel (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:251539)
+	at async n.h (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84275) jupyter.kernel.selectLocalPythonEnvironment {"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"}
+2023-10-25 10:34:21.569 [error] Error: command 'python.installPython' not found
+    at y.n (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1528:12299)
+    at y.executeCommand (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1528:12228) jupyter.installPythonViaKernelPicker {"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"}
+2023-10-25 10:34:43.522 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-25 10:34:43.523 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-25 10:34:47.544 [error] Canceled: Canceled
+	at Lw.selectLocalKernel (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:276265)
+	at async Sw.onSelectLocalKernel (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:251539)
+	at async n.h (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84275) jupyter.kernel.selectLocalPythonEnvironment {"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"}
+2023-10-25 10:36:48.472 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-10-25 10:37:48.366 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-10-25 10:39:58.342 [error] Error: read ECONNRESET
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-10-25 10:39:59.751 [error] Error: read ECONNRESET
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-10-25 10:41:08.795 [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1273013)
+	at Object.dispose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1324786)
+	at _.handleConnectionClosed (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1325064)
+	at _.handleConnectionClosed (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1479755)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1324874
+	at r.invoke (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1274726)
+	at o.fire (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1275491)
+	at Z (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1261369)
+	at r.invoke (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1274726)
+	at o.fire (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1275491)
+	at g.fireClose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1286843)
+	at Socket.<anonymous> (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1287573)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)
+2023-10-25 10:41:08.797 [error] Error: Client is not running and can't be stopped. It's current state is: starting
+	at _.shutdown (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1320461)
+	at _.stop (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1320042)
+	at _.stop (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1479361)
+	at _.doInitialize (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1319865)
+	at async _.start (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1316431)
+	at async pE.createLanguageServer (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:529929)
+	at async vE.openedNotebook (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:535754)
+2023-10-25 10:41:08.844 [error] Error: Client is not running and can't be stopped. It's current state is: starting
+	at _.shutdown (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1320461)
+	at _.stop (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1320042)
+	at _.stop (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1479361)
+	at _.doInitialize (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1319865)
+	at async _.start (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1316431)
+2023-10-25 10:41:08.845 [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1273013)
+	at Object.dispose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1324786)
+	at _.handleConnectionClosed (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1325064)
+	at _.handleConnectionClosed (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1479755)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1324874
+	at r.invoke (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1274726)
+	at o.fire (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1275491)
+	at Z (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1261369)
+	at r.invoke (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1274726)
+	at o.fire (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1275491)
+	at g.fireClose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1286843)
+	at Socket.<anonymous> (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1287573)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)
+2023-10-25 10:41:08.892 [error] Error: Client is not running and can't be stopped. It's current state is: starting
+	at _.shutdown (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1320461)
+	at _.stop (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1320042)
+	at _.stop (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1479361)
+	at _.doInitialize (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1319865)
+	at async _.start (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1316431)
+2023-10-25 10:41:08.941 [error] Error: Client is not running and can't be stopped. It's current state is: starting
+	at _.shutdown (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1320461)
+	at _.stop (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1320042)
+	at _.stop (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1479361)
+	at _.doInitialize (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1319865)
+	at async _.start (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1316431)
+2023-10-25 10:41:50.863 [error] TypeError: Cannot read properties of undefined (reading 'range')
+	at S.handleOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:468849)
+	at C.handleOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:479479)
+	at h.didOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:495696)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:494841
+	at Array.forEach (<anonymous>)
+	at h.startWatching (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:494823)
+	at pE.startWatching (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:529260)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:536790
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async vE.controllerChanged (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:535003)
+2023-10-25 10:41:50.864 [error] TypeError: Cannot read properties of undefined (reading 'range')
+	at S.handleOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:468849)
+	at C.handleOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:479479)
+	at h.didOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:495696)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:494841
+	at Array.forEach (<anonymous>)
+	at h.startWatching (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:494823)
+	at pE.startWatching (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:529260)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:536790
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async vE.controllerChanged (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:535003)
+2023-10-25 10:41:50.864 [error] TypeError: Cannot read properties of undefined (reading 'range')
+	at S.handleOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:468849)
+	at C.handleOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:479479)
+	at h.didOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:495696)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:494841
+	at Array.forEach (<anonymous>)
+	at h.startWatching (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:494823)
+	at pE.startWatching (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:529260)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:536790
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async vE.controllerChanged (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:535003)
+2023-10-25 10:41:50.865 [error] TypeError: Cannot read properties of undefined (reading 'range')
+	at S.handleOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:468849)
+	at C.handleOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:479479)
+	at h.didOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:495696)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:494841
+	at Array.forEach (<anonymous>)
+	at h.startWatching (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:494823)
+	at pE.startWatching (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:529260)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:536790
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async vE.controllerChanged (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:535003)
+2023-10-25 10:41:50.865 [error] TypeError: Cannot read properties of undefined (reading 'range')
+	at S.handleOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:468849)
+	at C.handleOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:479479)
+	at h.didOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:495696)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:494841
+	at Array.forEach (<anonymous>)
+	at h.startWatching (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:494823)
+	at pE.startWatching (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:529260)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:536790
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async vE.controllerChanged (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:535003)
+2023-10-25 10:41:50.865 [error] TypeError: Cannot read properties of undefined (reading 'range')
+	at S.handleOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:468849)
+	at C.handleOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:479479)
+	at h.didOpen (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:495696)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:494841
+	at Array.forEach (<anonymous>)
+	at h.startWatching (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:494823)
+	at pE.startWatching (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:529260)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:536790
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async vE.controllerChanged (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:535003)
+2023-10-25 10:41:50.865 [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1273013)
+	at Object.dispose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1324786)
+	at _.handleConnectionClosed (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1325064)
+	at _.handleConnectionClosed (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1479755)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1324874
+	at r.invoke (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1274726)
+	at o.fire (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1275491)
+	at Z (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1261369)
+	at r.invoke (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1274726)
+	at o.fire (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1275491)
+	at g.fireClose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1286843)
+	at Socket.<anonymous> (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1287573)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)
+2023-10-25 10:44:42.573 [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1273013)
+	at Object.dispose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1324786)
+	at _.handleConnectionClosed (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1325064)
+	at _.handleConnectionClosed (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1479755)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1324874
+	at r.invoke (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1274726)
+	at o.fire (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1275491)
+	at Z (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1261369)
+	at r.invoke (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1274726)
+	at o.fire (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1275491)
+	at g.fireClose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1286843)
+	at Socket.<anonymous> (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1287573)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)
+2023-10-25 10:46:57.444 [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1273013)
+	at Object.dispose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1324786)
+	at _.handleConnectionClosed (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1325064)
+	at _.handleConnectionClosed (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1479755)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1324874
+	at r.invoke (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1274726)
+	at o.fire (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1275491)
+	at Z (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1261369)
+	at r.invoke (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1274726)
+	at o.fire (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1275491)
+	at g.fireClose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1286843)
+	at Socket.<anonymous> (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1287573)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)
+2023-10-25 10:47:04.704 [error] [ms-toolsai.jupyter] provider FAILED
+2023-10-25 10:47:04.704 [error] Error: ValueError: `column` parameter (27) is not in a valid range (0-12) for line 4 ('import torch\n').
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1266335
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1266629
+	at Immediate.<anonymous> (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:1266991)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-25 10:48:47.326 [info] Extension host terminating: received terminate message from renderer
+2023-10-25 10:48:47.328 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/db57e982ac2e2f2f0b80f6ad4da4e8cf/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-10-25 10:48:47.379 [error] Canceled: Canceled
+	at Object.I [as $4] (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:7673
+	at Array.forEach (<anonymous>)
+	at i.dispose (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:7611)
+	at s.terminate (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8031)
+	at o.terminate (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at s.value (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:7848)
+	at c.z (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.fire (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:151:19153) jupyter.installPythonExtensionViaKernelPicker {"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"}
+2023-10-25 10:48:47.379 [error] Error: The kernel died. Error: /usr/bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:86356)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-10-25 10:48:47.379 [error] Canceled: Canceled
+	at new m (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:57216)
+	at i.U (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:10864)
+	at M.<computed>.j.charCodeAt.M.<computed> (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:135:8315)
+	at n.g (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83747)
+	at n.executeCommand (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at b.registerCommand.description (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:82506)
+	at n.h (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:84283)
+	at n.g (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83278)
+	at n.executeCommand (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:126:83185)
+	at Object.executeCommand (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:21282)
+	at ep.executeCommand (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:17:7443)
+	at n_.set (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:299169)
+	at kk.updateContextOfActiveNotebookKernel (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:496435)
+	at kk.onDidKernelStatusChange (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:498024)
+	at c.z (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at pv.<anonymous> (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:39580)
+	at c.z (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.A (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:17:236240
+	at Qg.dispose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:17:236342)
+	at /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:2353471
+	at Array.map (<anonymous>)
+	at Ac.dispose (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:2:2353461)
+	at Module.NT (/root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64/out/extension.node.js:24:653200)
+	at s.cb (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:9651)
+	at /root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7796
+	at Array.map (<anonymous>)
+	at s.Y (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:7784)
+	at s.terminate (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:137:8054)
+	at o.terminate (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:141:1513)
+	at l (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:9801)
+	at s.value (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:154:7848)
+	at c.z (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.fire (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:14010)
+	at r.z (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:17075)
+	at s.value (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:15527)
+	at c.z (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at s.acceptChunk (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:11784)
+	at s.value (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:96:11071)
+	at c.z (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:151:19153) setContext undefined
+2023-10-25 10:48:47.389 [info] Extension host with pid 6836 exiting with code 0

@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "GitHub Light",
+    "python.defaultInterpreterPath": "/users/jiadong/anaconda3/bin/python",
+    "terminal.integrated.inheritEnv": false,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New'",
+    "terminal.integrated.cursorBlinking": true,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.automationProfile.osx": {
+    },
+    "terminal.integrated.fontSize": 12.5,
+    "window.zoomLevel": 1,
+    "python.autoComplete.extraPaths": [
+
+    
+    ],
+    "python.analysis.extraPaths": [],
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.accessibilitySupport": "off",
+    "editor.fontSize": 13,
+    "workbench.productIconTheme": "icons-carbon"
+}

@@ -1,0 +1,11 @@
+2023-10-25 10:37:50.544 [info] [Info  - 10:37:50 AM] (7474) Pylance language server 2023.10.40 (pyright 088ebaa5) starting
+2023-10-25 10:37:50.544 [info] [Info  - 10:37:50 AM] (7474) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40/dist
+2023-10-25 10:37:50.544 [info] [Info  - 10:37:50 AM] (7474) Starting service instance "text_analysis"
+2023-10-25 10:37:50.582 [info] [Info  - 10:37:50 AM] (7474) Setting pythonPath for service "text_analysis": "/usr/bin/python3"
+2023-10-25 10:37:50.586 [info] [Warn  - 10:37:50 AM] (7474) stubPath /root/text_analysis/typings is not a valid directory.
+2023-10-25 10:37:50.615 [info] [Info  - 10:37:50 AM] (7474) Assuming Python version 3.6
+2023-10-25 10:37:50.665 [info] [Info  - 10:37:50 AM] (7474) No source files found.
+2023-10-25 10:44:26.897 [info] [Info  - 10:44:26 AM] (7474) Setting pythonPath for service "text_analysis": "/usr/bin/python3"
+2023-10-25 10:44:26.897 [info] [Warn  - 10:44:26 AM] (7474) stubPath /root/text_analysis/typings is not a valid directory.
+2023-10-25 10:44:26.943 [info] [Info  - 10:44:26 AM] (7474) Assuming Python version 3.6
+2023-10-25 10:44:27.016 [info] [Info  - 10:44:27 AM] (7474) Found 15 source files

@@ -1,0 +1,123 @@
+2023-10-25 09:34:22.479 [info] 
+
+
+
+
+2023-10-25 09:34:22.479 [info] Extension host agent started.
+2023-10-25 09:34:22.496 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-10-25 09:34:22.508 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-10-25 09:34:22.753 [info] [127.0.0.1][18b35a37][ManagementConnection] New connection established.
+2023-10-25 09:34:22.956 [info] [127.0.0.1][99c515e6][ExtensionHostConnection] New connection established.
+2023-10-25 09:34:23.102 [info] [127.0.0.1][99c515e6][ExtensionHostConnection] <6487> Launched Extension Host Process.
+2023-10-25 09:34:57.324 [info] [127.0.0.1][18b35a37][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-25 09:34:57.343 [info] [127.0.0.1][99c515e6][ExtensionHostConnection] <6487> Extension Host Process exited with code: 0, signal: null.
+2023-10-25 09:34:57.344 [info] Cancelling previous shutdown timeout
+2023-10-25 09:34:57.344 [info] Last EH closed, waiting before shutting down
+2023-10-25 09:34:58.946 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-10-25 09:34:58.946 [info] Cancelling previous shutdown timeout
+2023-10-25 09:34:59.325 [info] [127.0.0.1][516502ac][ManagementConnection] New connection established.
+2023-10-25 09:34:59.428 [info] [127.0.0.1][f0ba8219][ExtensionHostConnection] New connection established.
+2023-10-25 09:34:59.434 [info] [127.0.0.1][f0ba8219][ExtensionHostConnection] <6600> Launched Extension Host Process.
+2023-10-25 09:35:42.583 [info] [127.0.0.1][516502ac][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-25 09:35:42.609 [info] [127.0.0.1][f0ba8219][ExtensionHostConnection] <6600> Extension Host Process exited with code: 0, signal: null.
+2023-10-25 09:35:42.609 [info] Cancelling previous shutdown timeout
+2023-10-25 09:35:42.609 [info] Last EH closed, waiting before shutting down
+2023-10-25 09:35:45.576 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-10-25 09:35:45.576 [info] Cancelling previous shutdown timeout
+2023-10-25 09:35:46.138 [info] [127.0.0.1][bfc3ee12][ManagementConnection] New connection established.
+2023-10-25 09:35:46.347 [info] [127.0.0.1][6f4d0725][ExtensionHostConnection] New connection established.
+2023-10-25 09:35:46.358 [info] [127.0.0.1][6f4d0725][ExtensionHostConnection] <6734> Launched Extension Host Process.
+2023-10-25 09:36:11.012 [info] [127.0.0.1][bfc3ee12][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-25 09:36:11.031 [info] [127.0.0.1][6f4d0725][ExtensionHostConnection] <6734> Extension Host Process exited with code: 0, signal: null.
+2023-10-25 09:36:11.031 [info] Cancelling previous shutdown timeout
+2023-10-25 09:36:11.031 [info] Last EH closed, waiting before shutting down
+2023-10-25 09:36:13.591 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-10-25 09:36:13.591 [info] Cancelling previous shutdown timeout
+2023-10-25 09:36:14.066 [info] [127.0.0.1][ebb214d6][ManagementConnection] New connection established.
+2023-10-25 09:36:14.164 [info] [127.0.0.1][dde30893][ExtensionHostConnection] New connection established.
+2023-10-25 09:36:14.176 [info] [127.0.0.1][dde30893][ExtensionHostConnection] <6836> Launched Extension Host Process.
+2023-10-25 09:36:55.071 [info] Getting Manifest... ms-toolsai.jupyter
+2023-10-25 09:37:01.816 [info] Installing extension: ms-toolsai.jupyter
+2023-10-25 09:37:02.367 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-10-25 09:37:04.783 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-10-25 09:37:08.102 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-10-25 09:37:10.435 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-10-25 09:37:17.722 [info] Installing extension: ms-toolsai.jupyter-keymap ms-toolsai.jupyter
+2023-10-25 09:37:17.723 [info] Installing extension: ms-toolsai.jupyter-renderers ms-toolsai.jupyter
+2023-10-25 09:37:17.723 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-toolsai.jupyter
+2023-10-25 09:37:17.723 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-toolsai.jupyter
+2023-10-25 09:37:24.036 [warning] Extension signature verification failed with error 'ENOENT': ms-toolsai.vscode-jupyter-slideshow
+2023-10-25 09:37:24.067 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5: ms-toolsai.vscode-jupyter-slideshow
+2023-10-25 09:37:24.071 [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2023-10-25 09:37:24.072 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-slideshow
+2023-10-25 09:37:28.660 [warning] Extension signature verification failed with error 'ENOENT': ms-toolsai.jupyter-keymap
+2023-10-25 09:37:28.670 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.1.2: ms-toolsai.jupyter-keymap
+2023-10-25 09:37:28.673 [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.1.2
+2023-10-25 09:37:28.674 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2023-10-25 09:37:43.924 [warning] Extension signature verification failed with error 'ENOENT': ms-toolsai.vscode-jupyter-cell-tags
+2023-10-25 09:37:43.946 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8: ms-toolsai.vscode-jupyter-cell-tags
+2023-10-25 09:37:43.950 [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8
+2023-10-25 09:37:43.951 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-10-25 09:41:13.591 [info] New EH opened, aborting shutdown
+2023-10-25 09:50:41.998 [warning] Extension signature verification failed with error 'ENOENT': ms-toolsai.jupyter-renderers
+2023-10-25 09:50:42.228 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.17: ms-toolsai.jupyter-renderers
+2023-10-25 09:50:42.232 [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.17
+2023-10-25 09:50:42.234 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-10-25 10:01:36.568 [warning] Extension signature verification failed with error 'ENOENT': ms-toolsai.jupyter
+2023-10-25 10:01:36.842 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64: ms-toolsai.jupyter
+2023-10-25 10:01:36.850 [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.9.1102792234-linux-x64
+2023-10-25 10:01:36.857 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-10-25 10:01:36.861 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-10-25 10:01:36.861 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-10-25 10:01:36.861 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-10-25 10:01:36.861 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-10-25 10:01:36.861 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-10-25 10:10:58.879 [info] Getting Manifest... ms-python.python
+2023-10-25 10:10:59.860 [info] Installing extension: ms-python.python
+2023-10-25 10:11:01.361 [info] Getting Manifest... ms-python.vscode-pylance
+2023-10-25 10:11:03.729 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-10-25 10:34:17.915 [info] Getting Manifest... ms-python.python
+2023-10-25 10:34:18.464 [info] Extensions is already requested to install ms-python.python
+2023-10-25 10:34:37.172 [info] Getting Manifest... ms-python.python
+2023-10-25 10:34:37.220 [info] Extensions is already requested to install ms-python.python
+2023-10-25 10:35:59.303 [warning] Extension signature verification failed with error 'ENOENT': ms-python.python
+2023-10-25 10:36:01.053 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-python.python-2023.18.0: ms-python.python
+2023-10-25 10:36:01.064 [info] Renamed to /root/.vscode-server/extensions/ms-python.python-2023.18.0
+2023-10-25 10:36:01.072 [info] Extracting extension completed. ms-python.python
+2023-10-25 10:36:59.340 [info] Downloaded extension to file:///root/.vscode-server/data/CachedExtensionVSIXs/8c2d29f0-e8aa-4608-a596-1156494bb5f6
+2023-10-25 10:36:59.378 [info] Downloaded extension to file:///root/.vscode-server/data/CachedExtensionVSIXs/d77d6fc1-efef-4f56-b62c-d3fa39878a23
+2023-10-25 10:36:59.692 [info] Installing extension: ms-python.vscode-pylance
+2023-10-25 10:36:59.692 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2023-10-25 10:36:59.756 [info] Installing extension: ms-python.vscode-pylance
+2023-10-25 10:36:59.756 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2023-10-25 10:37:03.388 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40: ms-python.vscode-pylance
+2023-10-25 10:37:03.408 [info] Renamed to /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40
+2023-10-25 10:37:03.411 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-10-25 10:37:03.417 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-10-25 10:37:03.430 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40: ms-python.vscode-pylance
+2023-10-25 10:37:03.434 [info] Rename failed because extension was installed by another source. So ignoring renaming. ms-python.vscode-pylance
+2023-10-25 10:37:03.436 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-10-25 10:37:03.440 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-10-25 10:37:46.091 [info] Downloaded extension to file:///root/.vscode-server/data/CachedExtensionVSIXs/7069c60e-41f7-489b-8114-235399471e63
+2023-10-25 10:37:46.097 [info] Installing extension: ms-python.python
+2023-10-25 10:37:46.097 [info] Installing the extension without checking dependencies and pack ms-python.python
+2023-10-25 10:37:46.115 [info] Deleted existing extension from disk ms-python.python /root/.vscode-server/extensions/ms-python.python-2023.18.0
+2023-10-25 10:37:46.698 [info] Downloaded extension to file:///root/.vscode-server/data/CachedExtensionVSIXs/16606fad-e440-4ff7-9458-a5afe48a1f8a
+2023-10-25 10:37:46.706 [info] Installing extension: ms-python.python
+2023-10-25 10:37:46.707 [info] Installing the extension without checking dependencies and pack ms-python.python
+2023-10-25 10:37:48.119 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-python.python-2023.18.0: ms-python.python
+2023-10-25 10:37:48.131 [info] Renamed to /root/.vscode-server/extensions/ms-python.python-2023.18.0
+2023-10-25 10:37:48.137 [info] Extracting extension completed. ms-python.python
+2023-10-25 10:37:48.145 [info] Extension installed successfully: ms-python.python
+2023-10-25 10:37:48.672 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-python.python-2023.18.0: ms-python.python
+2023-10-25 10:37:48.681 [info] Rename failed because extension was installed by another source. So ignoring renaming. ms-python.python
+2023-10-25 10:37:48.690 [info] Extracting extension completed. ms-python.python
+2023-10-25 10:37:48.697 [info] Extension installed successfully: ms-python.python
+2023-10-25 10:41:50.977 [info] [127.0.0.1][dde30893][ExtensionHostConnection] <6836> Starting WebSocket: RAW/api/kernels/b8fdc4be-200f-4c16-9ed3-112b30b42370
+
+2023-10-25 10:46:57.086 [info] [127.0.0.1][dde30893][ExtensionHostConnection] <6836> Starting WebSocket: RAW/api/kernels/6af01d8a-c458-4698-8355-a70aefeb5f92
+
+2023-10-25 10:48:47.327 [info] [127.0.0.1][ebb214d6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-25 10:48:47.405 [info] [127.0.0.1][dde30893][ExtensionHostConnection] <6836> Extension Host Process exited with code: 0, signal: null.
+2023-10-25 10:48:47.405 [info] Last EH closed, waiting before shutting down
+2023-10-25 10:53:47.406 [info] Last EH closed, shutting down

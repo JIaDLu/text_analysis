@@ -1,0 +1,109 @@
+Traceback (most recent call last):
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/run-jedi-language-server.py", line 9, in <module>
+    from jedi_language_server.cli import cli
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/jedi_language_server/__init__.py", line 5, in <module>
+    from importlib_metadata import version
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/importlib_metadata/__init__.py", line 6, in <module>
+    import zipp
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/zipp/__init__.py", line 9, in <module>
+    from .py310compat import text_encoding
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/zipp/py310compat.py", line 5
+    def _text_encoding(encoding, stacklevel=2, /):  # pragma: no cover
+                                               ^
+SyntaxError: invalid syntax
+[Info  - 10:41:07 AM] Connection to server got closed. Server will restart.
+[Error - 10:41:07 AM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:41:07 AM] notebook-intellisense client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+Traceback (most recent call last):
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/run-jedi-language-server.py", line 9, in <module>
+    from jedi_language_server.cli import cli
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/jedi_language_server/__init__.py", line 5, in <module>
+    from importlib_metadata import version
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/importlib_metadata/__init__.py", line 6, in <module>
+    import zipp
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/zipp/__init__.py", line 9, in <module>
+    from .py310compat import text_encoding
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/zipp/py310compat.py", line 5
+    def _text_encoding(encoding, stacklevel=2, /):  # pragma: no cover
+                                               ^
+SyntaxError: invalid syntax
+[Info  - 10:41:07 AM] Connection to server got closed. Server will restart.
+[Error - 10:41:07 AM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:41:07 AM] notebook-intellisense client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+Traceback (most recent call last):
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/run-jedi-language-server.py", line 9, in <module>
+    from jedi_language_server.cli import cli
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/jedi_language_server/__init__.py", line 5, in <module>
+    from importlib_metadata import version
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/importlib_metadata/__init__.py", line 6, in <module>
+    import zipp
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/zipp/__init__.py", line 9, in <module>
+    from .py310compat import text_encoding
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/zipp/py310compat.py", line 5
+    def _text_encoding(encoding, stacklevel=2, /):  # pragma: no cover
+                                               ^
+SyntaxError: invalid syntax
+[Info  - 10:41:07 AM] Connection to server got closed. Server will restart.
+[Error - 10:41:07 AM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:41:07 AM] notebook-intellisense client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:41:07 AM] Restarting server failed
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+Traceback (most recent call last):
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/run-jedi-language-server.py", line 9, in <module>
+    from jedi_language_server.cli import cli
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/jedi_language_server/__init__.py", line 5, in <module>
+    from importlib_metadata import version
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/importlib_metadata/__init__.py", line 6, in <module>
+    import zipp
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/zipp/__init__.py", line 9, in <module>
+    from .py310compat import text_encoding
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/zipp/py310compat.py", line 5
+    def _text_encoding(encoding, stacklevel=2, /):  # pragma: no cover
+                                               ^
+SyntaxError: invalid syntax
+[Info  - 10:41:07 AM] Connection to server got closed. Server will restart.
+[Error - 10:41:07 AM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:41:07 AM] notebook-intellisense client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:41:07 AM] Restarting server failed
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+Traceback (most recent call last):
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/run-jedi-language-server.py", line 9, in <module>
+    from jedi_language_server.cli import cli
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/jedi_language_server/__init__.py", line 5, in <module>
+    from importlib_metadata import version
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/importlib_metadata/__init__.py", line 6, in <module>
+    import zipp
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/zipp/__init__.py", line 9, in <module>
+    from .py310compat import text_encoding
+  File "/root/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/lib/jedilsp/zipp/py310compat.py", line 5
+    def _text_encoding(encoding, stacklevel=2, /):  # pragma: no cover
+                                               ^
+SyntaxError: invalid syntax
+[Error - 10:41:07 AM] The notebook-intellisense server crashed 5 times in the last 3 minutes. The server will not be restarted. See the output for more information.
+[Error - 10:41:07 AM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:41:07 AM] notebook-intellisense client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Error - 10:41:07 AM] Restarting server failed
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
